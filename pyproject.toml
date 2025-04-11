@@ -1,0 +1,6 @@
+[project]
+name = "robot-controller"
+version = "0.1.0"
+dependencies = [
+    "rby1-sdk"
+]
